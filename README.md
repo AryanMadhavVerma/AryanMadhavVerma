@@ -1,6 +1,6 @@
 # 💫 About Me:
-A pm turned full-stack dev, having a year of experience in b2b SaaS. <br>Being driven by diving deep into problems and tinkering with tools to build products made me transition into engineering.<br><br>I'm a MERN stack developer looking for my next internship in full-stack, backend or frontend engineering. <br>When I'm not hunting for internships, I spend my time building web-apps. From a mail-scheduler, a messaging app, to a funky AI avatar generator, you can find me working on random stuff.<br>
-
+Software engineer with a year of experience in b2b saas building 0-1 products. Proficient in MERN stack and Java, with an inclination to build backend systems.
+Currently exploring 10x use-cases for AI in Product Analytics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryanmadhavverma/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/aryanmadhaverma) 
