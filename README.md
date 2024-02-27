@@ -1,10 +1,10 @@
 ### About Me:
-Software engineer with a year of experience in b2b saas building 0-1 products. Proficient in MERN stack and Java, with an inclination to build backend systems.
+Software engineer with a year of experience in b2b saas building 0-1 products. Proficient in Python and MERN and comfortable with Go, Java with an inclination to build backend systems.
 Currently exploring 10x use-cases for AI in Product Analytics
 
 ### Tech Stack:
-Languages:- Java, Go, Javascript, Python <br>
-Frameworks:- NodeJS, Express, React, NextJS, Langchain <br>
+Languages:- Python, Javascript, Go, Java <br>
+Frameworks:- FastAPI, Langchain, NodeJS, Express, React, NextJS <br>
 Data:- MongoDB, Postgres, DBT, Knex <br>
 
 ### Socials:
