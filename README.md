@@ -1,13 +1,15 @@
-Software engineer since the last 2.5 years in the startup ecosystem. Started as an early engineer at Houseware building agentic systems when agents were just research papers. Had a small exit when the startup got acquired. 
+Software engineer turned robotics researcher. ~3 years building in SaaS before I left to go deep in Physical AI
 
-Spent ~1.5 years at LaunchDarkly building backend systems at scale. Briefly worked with Conscious Engines, an AI research lab trying to build proactive personal intelligence.
+Started as an early engineer at Houseware, building agentic systems back when agents were still just research papers. Had a small exit when we got acquired, post which I spent a year and a half as a backend engineer at LaunchDarkly working on infrastructure, data and product. Briefly worked for an AI research lab(Conscious Engines) before leaving the safety of a job to transition into independent work.
 
-Recently left the safety of my job to do independent robotics research. Learning fast, failing fast, and building intuition around the next big problem to solve
+My current focus is uncertainty quantification for robot policies which in simple words, is predicting and preventing failures for deployed robot policies during inference. 
 
-Some themes/problems I deeply believe in:
-- Embodied AI
-- Continual personal intelligence across software and hardware systems
-- Neuro-enhanced humans
+The bigger problem I care about is self improving robotic systems. So the spaces I'm exploring sit along that closed loop: failure and uncertainty detection, fault attribution, automated reward modelling and leveraging world models for policy improvements
+
+Apart from these specific focus areas, some problem spaces I am deeply curious about
+- Synthetic humanoids 
+- Continual, omnipresent personal intelligence across consumer software and hardware
+- Bio-enhanced humans
 
 If you're working at the intersection of any of these domains, feel free to hit me up for a conversation!
 
