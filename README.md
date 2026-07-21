@@ -2,9 +2,7 @@ Software engineer turned robotics researcher. ~3 years building in SaaS before I
 
 Started as an early engineer at Houseware, building agentic systems back when agents were still just research papers. Had a small exit when we got acquired, post which I spent a year and a half as a backend engineer at LaunchDarkly working on infrastructure, data and product. Briefly worked for an AI research lab(Conscious Engines) before leaving the safety of a job to transition into independent work.
 
-My current focus is uncertainty quantification for robot policies which in simple words, is predicting and preventing failures for deployed robot policies during inference. 
-
-The bigger problem I care about is self improving robotic systems. So the spaces I'm exploring sit along that closed loop: failure and uncertainty detection, fault attribution, automated reward modelling and leveraging world models for policy improvements
+My current focus is on how to make robotic foundation models more reliable. The research spans from failure detection and self-improvement loops to reasoning and planning in real time
 
 Apart from these specific focus areas, some problem spaces I am deeply curious about
 - Synthetic humanoids 
